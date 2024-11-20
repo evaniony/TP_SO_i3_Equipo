@@ -32,3 +32,26 @@ Adaptador de LAN inalámbrica Wi-Fi:
 
    09:58
    
+
+Jonathan Gimenez
+
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:40:19:2ad:406
+   Dirección IPv6 temporal. . . . . . : 2800:40:19:2ad:b5c8:186
+   Vínculo: dirección IPv6 local. . . : fe80::8831:7b07:9a68
+   Dirección IPv4. . . . . . . . . . . . . . : 192.169.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.225.4
+   Puerta de enlace predeterminada . . . . . : fe80::1%12
+                                       192.168.2.2
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::c2cc:ef3c:97e7:6b9a%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.169.1.3
+   Máscara de subred . . . . . . . . . . . . : 255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+
+10:02
