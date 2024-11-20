@@ -1,0 +1,34 @@
+Quinteros Eva
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::b8f8:334b:3c34:9e2f%13
+   Dirección IPv4. . . . . . . . . . . . . . : 292.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.133.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Local Area Connection* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Local Area Connection* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::8cfb:30ff:de8b:f4c3%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.768.0.58
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.3
+
+   09:58
+   
