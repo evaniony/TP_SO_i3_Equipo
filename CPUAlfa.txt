@@ -1,0 +1,5 @@
+CsName            : EBI
+OsName            : Microsoft Windows 11 Home
+OsArchitecture    : 64 bits
+WindowsVersion    : 2009
+WindowsBuildLabEx : 22621.1.amd64fre.ni_release.220506-1251
