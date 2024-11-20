@@ -1,0 +1,25 @@
+Responde BETA:
+a-¿Cómo queda el máster después de estos cambios?
+b-¿Beta pudo ver todos los cambios que se realizaron?
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+
+BETA/ALFA
+a - Queda fusionadas la ramas; quedan presentadas en el main.
+b - Si, quedo.
+c - git pull, git merge gimenez
+
+GAMMA
+d - No, no puedo visualizar el archivo beta.txt en la rama gimenez; solo cuando Beta hizo el merge.
+e - No, no los tuvimos.
+g - Hice git pull para traer los ultimos cambios; me movi a la rama main y ahi hice los cambios (git add . & push).
+
+g - git pull, git merge quinteros
