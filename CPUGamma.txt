@@ -1,0 +1,2 @@
+Caption                                 DeviceID  MaxClockSpeed  Name                                      NumberOfCores  Status
+Intel64 Family 6 Model 158 Stepping 10  CPU0      2904           Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz  6 
